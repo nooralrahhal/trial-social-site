@@ -27,3 +27,7 @@ check out [Live Demo]()
 - How to setup Loading in the applecation to improve user experience .
 - How to handle posibility errors .
 - How to organize code using The Single Responsibility Principle .
+
+# trial-social-site
+
+A simple social site to practice fetching data using a fake API .
