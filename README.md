@@ -10,7 +10,7 @@ I also focus on the single responsibility principle for creating it . It is the 
 
 ### Links
 
-check out [Live Demo]()
+check out [Live Demo](https://trial-social-site.vercel.app/)
 
 ## My process
 
